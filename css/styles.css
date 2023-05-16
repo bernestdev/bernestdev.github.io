@@ -1,0 +1,16 @@
+/* styles.css */
+
+
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background-color: #f4f4f4;
+}
+
+h1 {
+  color: #333;
+}
+
+/* Add more CSS styles as needed */
